@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+
+.profile {
+    border-radius: 50%;
+    margin-bottom: 50px;
+    width: 175px;
+}
+
+#welcome {
+    
+    color: #FFFFFF;
+    bottom: 0;
+    
+    background: linear-gradient(#ed0f07 0%, #18daf0 100%);
+    display: table;
+    width: 100%;
+    height: 800px;
+    z-index: 9;
+}
+#bio{
+padding: 50px;
+text-align: center;
+}
+
+.links:hover{
+background-color:yellowgreen
+}
+p{
+font-family:Goldman;
+font-size: 17px;
+margin: 25px auto;
+max-width: 450px;
+}
+a{
+text-decoration:none;
+}
+#writing a{
+text-shadow: none;
+text-decoration: underline   
+}
+#contact{
+background: firebrick;
+}
+#contact ifarme {
+ width:100%;
+}
+.contact_1 h3 {
+display:inline;
+}
+.contact_1 a{
+color: beige;  
+}
+.my_nav_bar{
+position: sticky;
+top: 0;
+z-index: 5*9;
+}0
